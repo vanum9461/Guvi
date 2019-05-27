@@ -1,1 +1,1 @@
-print('aman')
+print('i m aman')
